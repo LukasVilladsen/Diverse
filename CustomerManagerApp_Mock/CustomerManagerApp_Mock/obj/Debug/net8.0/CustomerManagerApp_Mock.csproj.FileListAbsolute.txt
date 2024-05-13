@@ -1,0 +1,42 @@
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.exe
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.deps.json
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.runtimeconfig.json
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.dll
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.pdb
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.AssemblyInfoInputs.cache
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.AssemblyInfo.cs
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.csproj.CoreCompileInputs.cache
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.dll
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/refint/CustomerManagerApp_Mock.dll
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.pdb
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.genruntimeconfig.cache
+C:/Users/moal/source/repos/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/ref/CustomerManagerApp_Mock.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.exe
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.deps.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.runtimeconfig.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.pdb
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.AssemblyInfoInputs.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.AssemblyInfo.cs
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.csproj.CoreCompileInputs.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/refint/CustomerManagerApp_Mock.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.pdb
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.genruntimeconfig.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning  foreår 2024/SEMESTERS/4 Semester_AgileUdvikling/Modul 4/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/ref/CustomerManagerApp_Mock.dll
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.deps.json
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.runtimeconfig.json
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.dll
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/bin/Debug/net8.0/CustomerManagerApp_Mock.pdb
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.AssemblyInfoInputs.cache
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.AssemblyInfo.cs
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.csproj.CoreCompileInputs.cache
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.dll
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/refint/CustomerManagerApp_Mock.dll
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.pdb
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/CustomerManagerApp_Mock.genruntimeconfig.cache
+/Users/lukasvilladsen/Desktop/CustomerManagerApp_Mock/CustomerManagerApp_Mock/obj/Debug/net8.0/ref/CustomerManagerApp_Mock.dll

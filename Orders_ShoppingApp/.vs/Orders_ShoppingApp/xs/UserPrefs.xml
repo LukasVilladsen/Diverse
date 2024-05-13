@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{D379673A-5013-466B-AED1-64A698E530AF}|https">
+  <MonoDevelop.Ide.ItemProperties.ShoppingGateWay FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OcelotGateWay FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomerService FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Orders__ShoppingApp PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.ItemProperties.OrderService FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OcelotGateWay/Program.cs">
+    <Files>
+      <File FileName="OrderMicroservideTests/GlobalUsings.cs" />
+      <File FileName="Orders_ShoppingApp/Orders_ShoppingApp.http" />
+      <File FileName="Orders_ShoppingApp/Program.cs" />
+      <File FileName="Orders_ShoppingApp/Models/Customer.cs" />
+      <File FileName="Orders_ShoppingApp/Models/Order.cs" />
+      <File FileName="Orders_ShoppingApp/Interfaces/IOrderRepository.cs" />
+      <File FileName="Orders_ShoppingApp/Interfaces/ICustomerRepository.cs" />
+      <File FileName="Orders_ShoppingApp/Data/OrderRepository.cs" />
+      <File FileName="Orders_ShoppingApp/Controllers/CustomersController.cs" />
+      <File FileName="Orders_ShoppingApp/Data/CustomerRepository.cs" />
+      <File FileName="Orders_ShoppingApp/Controllers/OrdersController.cs" />
+      <File FileName="CustomerService/Program.cs" />
+      <File FileName="CustomerService/Controllers/CustomersController.cs" />
+      <File FileName="CustomerService/Data/CustomerRepository.cs" />
+      <File FileName="CustomerService/Interfaces/ICustomerRepository.cs" />
+      <File FileName="CustomerService/appsettings.json" />
+      <File FileName="CustomerService/Models/Customer.cs" />
+      <File FileName="OrderService/Program.cs" />
+      <File FileName="OrderService/Data/OrderRepository.cs" />
+      <File FileName="OrderService/Properties/launchSettings.json" />
+      <File FileName="OrderService/Controllers/OrdersController.cs" />
+      <File FileName="OrderService/Interfaces/IOrderRepository.cs" />
+      <File FileName="ShoppingGateWay/ProxyController.cs" />
+      <File FileName="ShoppingGateWay/Program.cs" />
+      <File FileName="OcelotGateWay/ocelot.json" Line="33" Column="8" />
+      <File FileName="OcelotGateWay/Program.cs" Line="19" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Orders_ShoppingApp" expanded="True">
+            <Node name="OcelotGateWay" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="OrderMicroservideTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Orders_ShoppingApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHrZ2+RfXyTP+9X5IgL4ws/A1Lk/Tib6prrBVqbcdrHi22nkCWu9MKSngqlzXhUrA1aAJeiQSBUNvedxS8FYjA==",
+  "success": true,
+  "projectFilePath": "/Users/lukasvilladsen/Desktop/Orders_ShoppingApp/OrderMicroservideTests/OrderMicroservideTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukasvilladsen/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/ipaddressrange/6.0.0/ipaddressrange.6.0.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.aspnetcore.jsonpatch/7.0.14/microsoft.aspnetcore.jsonpatch.7.0.14.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.aspnetcore.middlewareanalysis/7.0.14/microsoft.aspnetcore.middlewareanalysis.7.0.14.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.14/microsoft.aspnetcore.mvc.newtonsoftjson.7.0.14.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.extensions.diagnosticadapter/3.1.32/microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/mstest.testadapter/3.0.4/mstest.testadapter.3.0.4.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/mstest.testframework/3.0.4/mstest.testframework.3.0.4.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/ocelot/23.1.0/ocelot.23.1.0.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/lukasvilladsen/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

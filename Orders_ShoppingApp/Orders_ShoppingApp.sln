@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders_ShoppingApp", "Orders_ShoppingApp\Orders_ShoppingApp.csproj", "{D379673A-5013-466B-AED1-64A698E530AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservideTests", "OrderMicroservideTests\OrderMicroservideTests.csproj", "{214F9B75-12C6-4385-8D6B-37F9C4422086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService", "CustomerService\CustomerService.csproj", "{F5538206-923D-4093-9D63-79F9C3DDF115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{A3FEAFBE-FA28-4DCE-9FBE-40F123C326FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingGateWay", "ShoppingGateWay\ShoppingGateWay.csproj", "{086E0FDD-0373-4194-8B43-35C9000578DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotGateWay", "OcelotGateWay\OcelotGateWay.csproj", "{F8A10556-7318-4810-B119-8D71A1C807A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D379673A-5013-466B-AED1-64A698E530AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D379673A-5013-466B-AED1-64A698E530AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D379673A-5013-466B-AED1-64A698E530AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D379673A-5013-466B-AED1-64A698E530AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214F9B75-12C6-4385-8D6B-37F9C4422086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214F9B75-12C6-4385-8D6B-37F9C4422086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214F9B75-12C6-4385-8D6B-37F9C4422086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214F9B75-12C6-4385-8D6B-37F9C4422086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5538206-923D-4093-9D63-79F9C3DDF115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5538206-923D-4093-9D63-79F9C3DDF115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5538206-923D-4093-9D63-79F9C3DDF115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5538206-923D-4093-9D63-79F9C3DDF115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FEAFBE-FA28-4DCE-9FBE-40F123C326FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FEAFBE-FA28-4DCE-9FBE-40F123C326FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FEAFBE-FA28-4DCE-9FBE-40F123C326FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FEAFBE-FA28-4DCE-9FBE-40F123C326FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086E0FDD-0373-4194-8B43-35C9000578DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086E0FDD-0373-4194-8B43-35C9000578DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086E0FDD-0373-4194-8B43-35C9000578DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086E0FDD-0373-4194-8B43-35C9000578DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A10556-7318-4810-B119-8D71A1C807A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A10556-7318-4810-B119-8D71A1C807A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A10556-7318-4810-B119-8D71A1C807A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A10556-7318-4810-B119-8D71A1C807A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8272DCCC-DEDC-48F5-BF50-E9C6346C5864}
+	EndGlobalSection
+EndGlobal
